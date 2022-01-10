@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/filtronome"
+        android:title="nome"/>
+    <item android:id="@+id/filtroingrediente"
+        android:title="ingrediente"/>
+    <item android:id="@+id/filtronacionalidade"
+        android:title="nacionalidade"/>
+    <item android:id="@+id/filtrotipo"
+        android:title="tipo"/>
+
+</menu>

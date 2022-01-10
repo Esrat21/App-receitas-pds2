@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/bg_button.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/bg_login.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/bg_menus.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/edit_text_border.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/edittext_bg.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/foodlibrary_logo_background.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/ic_listas.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/ic_logout.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/ic_perfil.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/ic_pesquisa.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/ic_preferencias.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/ic_receita.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/img_logo.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/drawable/side_nav_bar.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/activity_tela_cadastro.xml" value="0.1" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/activity_tela_login.xml" value="0.25" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/activity_tela_principal.xml" value="0.2" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/content_navigation_drawer.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/fragment_assinatura.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/fragment_cadastrareceita.xml" value="0.18" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/fragment_cadastroreceita.xml" value="0.1503623188405797" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/fragment_gallery.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/fragment_home.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/fragment_listas.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/fragment_perfil.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/fragment_preferencias.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/login_toolbar.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/menu/drawer_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/mipmap-anydpi-v26/foodlibrary_logo.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/AndroidStudioProjects/FoodLibrary/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2890625" />
+        <entry key="..\:/Users/Eduardo/Desktop/Semestre2/PDS2/Versoes/Versao Pesquisa/FoodLibrary/app/src/main/res/layout/activity_tela_cadastro.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/Eduardo/Desktop/Semestre2/PDS2/Versoes/Versao Pesquisa/FoodLibrary/app/src/main/res/layout/activity_tela_principal.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/Eduardo/Desktop/Semestre2/PDS2/Versoes/Versao Pesquisa/FoodLibrary/app/src/main/res/layout/fragment_listas.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/Eduardo/Desktop/Semestre2/PDS2/Versoes/Versao Pesquisa/FoodLibrary/app/src/main/res/layout/fragment_perfil.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/Eduardo/Desktop/Semestre2/PDS2/Versoes/Versao Pesquisa/FoodLibrary/app/src/main/res/layout/fragment_preferencias.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/Eduardo/Desktop/Semestre2/PDS2/Versoes/Versao Pesquisa/FoodLibrary/app/src/main/res/menu/popup_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/jgmda/Documents/Android/FoodLibrary/FoodLibrary/app/src/main/res/layout/activity_tela_login.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/jgmda/Documents/Android/FoodLibrary/FoodLibrary/app/src/main/res/layout/activity_tela_principal.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jgmda/Documents/Android/FoodLibrary/FoodLibrary/app/src/main/res/layout/activity_tela_receita.xml" value="0.2" />
+        <entry key="..\:/Users/jgmda/Documents/Android/FoodLibrary/FoodLibrary/app/src/main/res/layout/fragment_cadastrareceita.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jgmda/Documents/Android/FoodLibrary/FoodLibrary/app/src/main/res/layout/fragment_home.xml" value="0.3776041666666667" />
+        <entry key="..\:/Users/jgmda/Documents/Android/FoodLibrary/FoodLibrary/app/src/main/res/layout/fragment_listas.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jgmda/Documents/Android/FoodLibrary/FoodLibrary/app/src/main/res/layout/fragment_perfil.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jgmda/Documents/Android/FoodLibrary/FoodLibrary/app/src/main/res/layout/loading_screen.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/jgmda/Documents/Android/FoodLibrary/FoodLibrary/app/src/main/res/layout/login_toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/jgmda/Downloads/FoodLibrary/FoodLibrary/app/src/main/res/layout/activity_tela_cadastro.xml" value="0.18125" />
+        <entry key="..\:/Users/jgmda/Downloads/FoodLibrary/FoodLibrary/app/src/main/res/layout/activity_tela_principal.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/jgmda/Downloads/FoodLibrary/FoodLibrary/app/src/main/res/layout/fragment_cadastrareceita.xml" value="0.4" />
+        <entry key="..\:/Users/jgmda/Downloads/FoodLibrary/FoodLibrary/app/src/main/res/layout/fragment_home.xml" value="0.2318840579710145" />
+        <entry key="..\:/Users/jgmda/Downloads/FoodLibrary/FoodLibrary/app/src/main/res/menu/drawer_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

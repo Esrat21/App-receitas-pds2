@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <RelativeLayout
+            android:id="@id/imagemarea"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittext_bg"
+            android:padding="10dp">
+
+            <ImageView
+                android:id="@+id/imagemReceita"
+                android:layout_width="213dp"
+                android:layout_height="168dp"
+                android:layout_alignParentTop="true"
+                android:layout_centerInParent="true"
+                android:src="@mipmap/ic_launcher" />
+
+            <com.jackandphantom.androidlikebutton.AndroidLikeButton
+                android:id="@+id/like"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignBottom="@id/imagemReceita"
+                android:layout_toRightOf="@id/imagemReceita"
+                app:circle_endColor="#F38A8A"
+                app:circle_startColor="#F38A8A"
+                app:dot_active="true"
+                app:dot_color_1="#F38A8A"
+                app:dot_color_2="#F38A8A"
+                app:like_icon="@drawable/curti"
+                app:unlike_icon="@drawable/descurti"></com.jackandphantom.androidlikebutton.AndroidLikeButton>
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/nometextview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imagemarea"
+            android:layout_centerHorizontal="true"
+            android:text="This is Header Text"
+            android:textColor="#000"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+
+            android:layout_alignParentRight="true"
+            android:layout_below="@id/nometextview"
+
+            android:layout_marginHorizontal="30dp"
+
+            android:orientation="vertical">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nome"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/nomeReceita"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edittext_bg"
+                android:ems="10"
+                android:padding="8dp">
+                <requestFocus />
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nacionalidade"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/nacionalidadeReceita"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edittext_bg"
+                android:ems="7"
+                android:padding="8dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tipo"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/tipoReceita"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edittext_bg"
+                android:ems="7"
+                android:padding="8dp" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ingredientes"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/ingredientesReceita"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edittext_bg"
+                android:ems="10"
+                android:minLines="5"
+                android:gravity="top"
+                android:padding="4dp"
+                android:scrollbars="vertical" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Metodo de Preparo"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/modoPreparoReceita"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edittext_bg"
+                android:ems="10"
+                android:gravity="top"
+                android:minLines="5"
+                android:padding="4dp"
+                android:scrollbars="vertical" />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+</ScrollView>
